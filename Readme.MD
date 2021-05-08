@@ -4,6 +4,11 @@ difficulty with, and as you might imagine, it isn’t always so easy for compute
 either. But with the right tools and Python, you can use sentiment analysis to
 better understand the sentiment of a speech.
 
+Speechrec.py ---------> Speech based tone detection
+Main.py      ---------> Paragraph based tone detection
+
+
+
 Abstract
 
 
